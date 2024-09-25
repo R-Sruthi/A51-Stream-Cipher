@@ -22,4 +22,5 @@ Mentor: Mr. Saurabh Shrivastava
 ![image](https://github.com/R-Sruthi/A51-Stream-Cipher/blob/main/img/img_1.png)
 
 #### References
-- []()
+- [A5/1 Stream Cipher](https://asecuritysite.com/symmetric/a5)
+- [Python Implemention](https://github.com/dkushagra/a51-python)
